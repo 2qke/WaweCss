@@ -31,8 +31,35 @@ To use WaweCss in your HTML document, follow these steps:
 </body>
 </html>
 ```
-# Result Aqua Button (Added as an example img.)
+# Result Aqua Button (Added as an example img)
 <img src="https://cdn.discordapp.com/attachments/1133431801487040563/1137705560192598036/button-example-aqua.png">
+
+# What will we add next?
+> text-size, more text-color, more bg-color and some missing styles
+
+# ClassList
+Our main goal is for you to use it as multi-support. You can use it in some parts you don't like in libraries such as Bootstrap or TailwindCSS that you usually use. You can also use us as an option. We do not have such a large structure yet, but our goal is to modernize!
+
+## Flex
+`flex — display: flex;` | Classic display-flex structure<br>
+`flex-col — flex: direction: column;` | Classic display-flex and flex-column structure<br>
+`flex-row — flex: direction: row;` | Classic display-flex and flex-row structure<br>
+
+## Border
+`border` — border-radius | Border Radius class has from 2 to 30 (use border-5 vb.)<br>
+
+## Background Color
+`bgr-dark — background-color: rgb(31, 33, 39);` | Background color dark<br>
+`bgr-gray — background-color: rgb(101, 101, 109);` | Background color gray<br>
+`bgr-white — background-color: rgb(231, 231, 231);` | Background color white<br>
+
+## Text Color
+`text-dark — color: rgb(41, 42, 44);` | Text color dark<br>
+`text-gray — color: rgb(185, 185, 185);` | Text color gray<br>
+`text-white — color: rgb(224, 224, 224);` | Text color white<br>
+
+## Other
+`cp — cursor: pointer;` | Classic cursor-pointer<br>
 
 > Created by <a target="_blank" href="https://github.com/2qke">2qke</a><br>
 > My web site: <a target="_blank" href="https://ebusoft.com.tr">ebusoft.com.tr</a>
