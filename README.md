@@ -42,6 +42,9 @@ To use WaweCss in your HTML document, follow these steps:
 # What will we add next?
 > text-size, more text-color, more bg-color and some missing styles
 
+### Navigation
+<a href="#flex">Flex</a>
+
 # ClassList
 Our main goal is for you to use it as multi-support. You can use it in some parts you don't like in libraries such as Bootstrap or TailwindCSS that you usually use. You can also use us as an option. We do not have such a large structure yet, but our goal is to modernize!
 
