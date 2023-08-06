@@ -341,6 +341,68 @@
     display: none;
 }
 
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.jcenter {
+    display: flex;
+    justify-content: center;
+}
+
+.jend {
+    display: flex;
+    justify-content: end;
+}
+
+.jright {
+    display: flex;
+    justify-content: right;
+}
+
+.jleft {
+    display: flex;
+    justify-content: left;
+}
+
+.jbetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.white-effect {
+    transition: color 0.3s ease;
+}
+
+.white-effect:hover {
+    color: white !important;
+}
+
+.red-effect {
+    transition: color 0.3s ease;
+}
+
+.red-effect:hover {
+    color: red !important;
+}
+
+.orange-effect {
+    transition: color 0.3s ease;
+}
+
+.orange-effect:hover {
+    color: orange !important;
+}
+
+.yellow-effect {
+    transition: color 0.3s ease;
+}
+
+.yellow-effect:hover {
+    color: yellow !important;
+}
+
 /* 320px and below (Most old smartphones) */
 @media only screen and (max-width: 320px) {
     .responsive-button {

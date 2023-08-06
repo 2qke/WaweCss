@@ -62,6 +62,7 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `flex-row — flex: direction: row;` | Classic display-flex and flex-row structure<br>
 
 ## Margin
+`mx-auto` | It ensures that the object is at a certain distance from the right and left.<br>
 `m-left` — margin-left | Margin Left class has from 2 to 20 (use m-left-5 vb.)<br>
 `m-right` — margin-right | Margin Right class has from 2 to 20 (use m-right-5 vb.)<br>
 
@@ -79,11 +80,24 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `text-white — color: rgb(224, 224, 224);` | Text color white<br>
 
 ## Text Features
-`text-center` — Centers the text.<br>
-`item-center` — Used to center items on the vertical (horizontal) axis. <br>
-`text-no-decoration` — It removes the lines under the links you are using. <br>
-`list-no-decoration` — Removes objects such as dots, numbers or letters in the li classes you create. <br>
-`hide-item` — Hides the object. <br>
+`text-center` | Centers the text.<br>
+`item-center` | Used to center items on the vertical (horizontal) axis. <br>
+`text-no-decoration` | It removes the lines under the links you are using. <br>
+`list-no-decoration` | Removes objects such as dots, numbers or letters in the li classes you create. <br>
+`hide-item` | Hides the object. <br>
+
+## Effect
+`white-effect` | Adds a white transition effect. (0.3s)<br>
+`red-effect` | Adds a red transition effect. (0.3s)<br>
+`orange-effect` | Adds a orange transition effect. (0.3s)<br>
+`yellow-effect` | Adds a yellow transition effect. (0.3s)<br>
+
+## Justify
+`jcenter` | This style attribute is used to center the elements in the flex container horizontally (on the x-axis).<br>
+`jend` | This style property aligns items inside the flex container horizontally (on the x-axis) to the right.<br>
+`jright` | Aligns the contents of the flex container horizontally to the right.<br>
+`jleft` | Aligns the contents of the flex container containing the class horizontally to the left.<br>
+`jbetween` | This style property aligns elements in the flex container horizontally (on the x-axis) by spacing them apart.<br>
 
 ## Responsive
 `responsive-button` — Makes the buttons mobile friendly.<br>
