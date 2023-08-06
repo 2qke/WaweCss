@@ -1,0 +1,28 @@
+{
+  "name": "wawecss",
+  "version": "1.2.2",
+  "description": "WaweCss is a modern and multi-support CSS framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2qke/WaweCss.git"
+  },
+  "keywords": [
+    "wawecss",
+    "css",
+    "frameworks",
+    "tailwindcss",
+    "bootstrap",
+    "css",
+    "frameworks"
+  ],
+  "author": "2qke, thislaex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2qke/WaweCss/issues"
+  },
+  "homepage": "https://github.com/2qke/WaweCss#readme"
+}
