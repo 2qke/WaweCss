@@ -107,5 +107,5 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 ## Other
 `cp — cursor: pointer;` | Classic cursor-pointer<br>
 
-> Created by <a target="_blank" href="https://github.com/2qke">2qke</a><br>
+> Created by <a target="_blank" href="https://github.com/2qke">2qke</a> & <a target="_blank" href="https://github.com/thislaex">thislaex</a><br>
 > My web site: <a target="_blank" href="https://ebusoft.com.tr">ebusoft.com.tr</a>
