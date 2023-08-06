@@ -320,3 +320,63 @@
 .cp {
     cursor: pointer;
 }
+
+.text-center {
+    text-align: center;
+}
+
+.text-no-decoration {
+    text-decoration: none;
+}
+
+.list-no-decoration {
+    list-style-type: none;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.hide-item {
+    display: none;
+}
+
+/* 320px and below (Most old smartphones) */
+@media only screen and (max-width: 320px) {
+    .responsive-button {
+        max-width: 100%;
+        padding: 0.5rem;
+    }
+}
+
+/* 360px (Usually low resolution phones) */
+@media only screen and (max-width: 360px) {
+    .responsive-button {
+        max-width: 100%;
+        padding: 0.5rem;
+    }
+}
+
+/* 375px (like iPhone 6/7/8) */
+@media only screen and (max-width: 375px) {
+    .responsive-button {
+        max-width: 100%;
+        padding: 0.5rem;
+    }
+}
+
+/* 414px (like iPhone 6/7/8 Plus) */
+@media only screen and (max-width: 414px) {
+    .responsive-button {
+        max-width: 100%;
+        padding: 0.5rem;
+    }
+}
+
+/* 768px (big phones like iPhone 11 Pro Max, Samsung Galaxy S10) */
+@media only screen and (max-width: 768px) {
+    .responsive-button {
+        max-width: 100%;
+        padding: 0.5rem;
+    }
+}

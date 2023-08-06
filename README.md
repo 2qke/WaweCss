@@ -76,6 +76,16 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `text-gray — color: rgb(185, 185, 185);` | Text color gray<br>
 `text-white — color: rgb(224, 224, 224);` | Text color white<br>
 
+## Text Features
+'text-center' — Centers the text.<br>
+'item-center' — Used to center items on the vertical (horizontal) axis. <br>
+'text-no-decoration' — It removes the lines under the links you are using. <br>
+'list-no-decoration' — Removes objects such as dots, numbers or letters in the li classes you create. <br>
+'hide-item' — Hides the object. <br>
+
+## Responsive
+'responsive-button' — Makes the buttons mobile friendly.<br>
+
 ## Other
 `cp — cursor: pointer;` | Classic cursor-pointer<br>
 
