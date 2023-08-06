@@ -51,6 +51,7 @@ To use WaweCss in your HTML document, follow these steps:
 <a href="#text-features">#Text Features</a><br>
 <a href="#effect">#Effect</a><br>
 <a href="#justify">#Justify</a><br>
+<a href="#display">#Display</a><br>
 <a href="#responsive">#Responsive</a><br>
 <a href="#other">#Other Class</a><br>
 
@@ -101,8 +102,21 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `jleft` | Aligns the contents of the flex container containing the class horizontally to the left.<br>
 `jbetween` | This style property aligns elements in the flex container horizontally (on the x-axis) by spacing them apart.<br>
 
+## Display
+`d-block` | Changes the default behavior of an item and displays the item in a block layout. A block layout means that the element stretches horizontally to use the full width of the row that contains it. Therefore, an item with a block order will not be on the same line as other items that come before or after it. The width of an element with a block layout is automatically adjusted based on the content it contains, and the width of the element may vary depending on the screen or the top element.<br>
+`d-contents` | Removing the display of the element itself, showing its contents directly as the contents of the parent element. That is, an element with the .d-contents class replaces its content, not itself. Therefore, an item with this property is not displayed in the containing row or block, and is only displayed so that its content is at the same level as the items above or below it.<br>
+`d-inline` | Displays images of the item inline with other content side-by-side. Therefore, an item with an inline layout will be displayed on the same line as any other content it is tracking. The width of the element will be limited by the height of the content and will not move to a new line as long as the content is placed side by side.<br>
+`d-inline-block` | it makes the element behave as if it has a block layout, while displaying it in an inline layout juxtaposed with other content. Therefore, an element with an inline-block layout will display on the same line as other surrounding content and adjust itself to the width of the content. However, the height and vertical properties of the content are applied as in the block layout and placed in a row with other elements surrounding the element content.<br>
+`d-inline-flex` | While showing the item in inline layout side by side with other content, it also allows to manage the content with flex layout. Flex layout provides the ability to organize and align content flexibly and automatically, making it easy to organize and sort content.<br>
+`d-inline-table` | While displaying the item in inline layout juxtaposed with other content, it also allows to organize the content in a tabular layout. The table layout provides features to organize and align content in rows and columns.<br>
+`d-list-item` | displays the item in the order list item, and therefore the item behaves like a bullet or, respectively, a list element. This style attribute is assigned by default to `li` tags within HTML lists and helps these tags create the bullet or sequence of the list.<br>
+
+## Container
+`container-1200` | Functionally, when you use this class, you can keep your content within a limited area and limit it to a certain width, not using the full width of your page. This can be useful when you want to control and edit the width of the contents.<br>
+
 ## Responsive
-`responsive-button` — Makes the buttons mobile friendly.<br>
+`responsive-button` | Makes the buttons mobile friendly.<br>
+`responsive-container` | Makes the container mobile friendly.<br>
 
 ## Other
 `cp — cursor: pointer;` | Classic cursor-pointer<br>
