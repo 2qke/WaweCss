@@ -8,6 +8,8 @@ To use WaweCss in your HTML document, follow these steps:
 
 1. Download the "wawe.css" file from the WaweCss website or repository. Or use with JsDelivr CDN Network.
 
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2qke/WaweCss@main/wawe.css">`
+
 2. Place the "wawe.css" file in the same directory as your HTML file if you downloaded it from the repo.
 
 3. Make a sample button design with WaweCss using the sample code below.
