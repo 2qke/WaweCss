@@ -1,0 +1,39 @@
+.button-example-aqua {
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: aqua;
+    border: none;
+    color: rgb(28, 122, 122);
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.button-example-aqua:hover {
+    background-color: rgb(13, 218, 218);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.button-example-orange {
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: orange;
+    border: none;
+    color: rgb(146, 106, 33);
+    font-weight: 600;
+    transition: all 0.3s;
+}
+
+.button-example-orange:hover {
+    background-color: rgb(201, 139, 25);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+button {
+    margin-left: 8px;
+}
