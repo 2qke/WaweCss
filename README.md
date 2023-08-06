@@ -25,9 +25,14 @@ To use WaweCss in your HTML document, follow these steps:
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/2qke/WaweCss@main/wawe.css">
     <title>WaweCss Example!</title>
 </head>
-<body>
-     <button class="button-example-aqua">Button Example Aqua</div>
-     <button class="button-example-orange">Button Example Orange</div>
+<body class="bgr-white">
+    <div class="flex flex-row">
+        <button class="button-aqua radius-10 m-left-9">Button Example Aqua</button>
+        <button class="button-orange radius-6 m-left-9">Button Example Orange</button>
+        <button class="button-red radius-8 m-left-9">Button Example Red</button>
+        <button class="bgr-gray radius-8 cp m-left-9">Button bgr-gray</button>
+        <button class="cp default-button bgr-dark text-white radius-7 m-left-9">Default Button</button>
+      </div>
 </body>
 </html>
 ```
@@ -44,6 +49,10 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `flex — display: flex;` | Classic display-flex structure<br>
 `flex-col — flex: direction: column;` | Classic display-flex and flex-column structure<br>
 `flex-row — flex: direction: row;` | Classic display-flex and flex-row structure<br>
+
+## Margin
+`m-left` — margin-left | Margin Left class has from 2 to 20 (use m-left-5 vb.)<br>
+`m-right` — margin-right | Margin Right class has from 2 to 20 (use m-right-5 vb.)<br>
 
 ## Border
 `border` — border-radius | Border Radius class has from 2 to 30 (use border-5 vb.)<br>
