@@ -48,6 +48,8 @@ To use WaweCss in your HTML document, follow these steps:
 <a href="#border">#Border</a><br>
 <a href="#background-color">#Background-Color</a><br>
 <a href="#text-color">#Text-Color</a><br>
+<a href="#text-features">#Text Features</a><br>
+<a href="#responsive">#Responsive</a><br>
 <a href="#other">#Other Class</a><br>
 
 
