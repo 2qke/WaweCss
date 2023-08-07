@@ -52,6 +52,7 @@ To use WaweCss in your HTML document, follow these steps:
 <a href="#effect">#Effect</a><br>
 <a href="#justify">#Justify</a><br>
 <a href="#display">#Display</a><br>
+<a href="#cards">#Cards</a><br>
 <a href="#responsive">#Responsive</a><br>
 <a href="#other">#Other Class</a><br>
 
@@ -111,6 +112,11 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `d-inline-table` | While displaying the item in inline layout juxtaposed with other content, it also allows to organize the content in a tabular layout. The table layout provides features to organize and align content in rows and columns.<br>
 `d-list-item` | displays the item in the order list item, and therefore the item behaves like a bullet or, respectively, a list element. This style attribute is assigned by default to `li` tags within HTML lists and helps these tags create the bullet or sequence of the list.<br>
 
+## Cards
+`cards` | WaweCSS default Cards
+`cards-shadowy` | WaweCSS shadowy Cards
+`cards-border` | WaweCSS border Cards
+
 ## Container
 `container-1200` | Functionally, when you use this class, you can keep your content within a limited area and limit it to a certain width, not using the full width of your page. This can be useful when you want to control and edit the width of the contents.<br>
 
@@ -123,3 +129,4 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 
 > Created by <a target="_blank" href="https://github.com/2qke">2qke</a> & <a target="_blank" href="https://github.com/thislaex">thislaex</a><br>
 > My web site: <a target="_blank" href="https://ebusoft.com.tr">ebusoft.com.tr</a>
+> laéx site: <a target="_blank" href="https://laex.com.tr">laex.com.tr</a>

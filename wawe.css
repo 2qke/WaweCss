@@ -283,6 +283,7 @@
 .d-flex {
     display: flex;
 }
+
 .flex-col {
     display: flex;
     flex-direction: column;
@@ -441,6 +442,81 @@
 
 .container-1200 img {
     max-width: 20%;
+}
+
+.cards {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    width: 300px;
+    background-color: #fff;
+}
+
+.cards img {
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+.cards h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.cards p {
+    font-size: 14px;
+    color: #555;
+}
+
+.cards-shadowy {
+    border-radius: 8px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    width: 300px;
+    background-color: #fff;
+    transition: transform 0.2s ease-in-out;
+}
+
+.cards-shadowy:hover {
+    transform: translateY(-4px);
+}
+
+.cards-shadowy img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.cards-shadowy h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.cards-shadowy p {
+    font-size: 14px;
+    color: #555;
+}
+
+.cards-border {
+    border: 2px solid #e9e9e9;
+    border-radius: 8px;
+    padding: 16px;
+    width: 300px;
+    background-color: #fff;
+}
+
+.cards-border img {
+    width: 100%;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
+
+.cards-border h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.cards-border p {
+    font-size: 14px;
+    color: #555;
 }
 
 /* 320px and below (Most old smartphones) */
