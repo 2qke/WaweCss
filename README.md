@@ -113,9 +113,9 @@ Our main goal is for you to use it as multi-support. You can use it in some part
 `d-list-item` | displays the item in the order list item, and therefore the item behaves like a bullet or, respectively, a list element. This style attribute is assigned by default to `li` tags within HTML lists and helps these tags create the bullet or sequence of the list.<br>
 
 ## Cards
-`cards` | WaweCSS default Cards
-`cards-shadowy` | WaweCSS shadowy Cards
-`cards-border` | WaweCSS border Cards
+`cards` | WaweCSS default Cards <br>
+`cards-shadowy` | WaweCSS shadowy Cards<br>
+`cards-border` | WaweCSS border Cards<br>
 
 ## Container
 `container-1200` | Functionally, when you use this class, you can keep your content within a limited area and limit it to a certain width, not using the full width of your page. This can be useful when you want to control and edit the width of the contents.<br>
